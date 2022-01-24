@@ -1,4 +1,4 @@
-package com.amal_19104024.modul10
+package com.naseh_19104003.modul10
 
 import android.R
 import android.content.ContentValues
