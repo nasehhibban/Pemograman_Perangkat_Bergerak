@@ -9,7 +9,7 @@ android {
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.rifqi_19104031.modul6"
+        applicationId "com.naseh_19104003.modul6"
         minSdkVersion 24
         targetSdkVersion 30
         versionCode 1
